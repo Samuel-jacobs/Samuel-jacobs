@@ -2,8 +2,11 @@
 - 👀 I’m interested in building responsive and interactive websites with aesthetic interface
 - 🌱 I’m currently learning react, sass, php and sql
 - 💞️ I’m looking to collaborate on web development projects
-- 📫 How to reach me 
+- 📫 How to reach me on
+
     -twitter - @_samueljacobs_
+    
+    
     -email - jacobssamuel57@gmail.com
 
 <!---
