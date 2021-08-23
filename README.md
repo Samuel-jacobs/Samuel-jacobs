@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me on
 
-    -twitter - @_samueljacobs_
+    -twitter - @__samueljacobs__
     
     
     -email - jacobssamuel57@gmail.com
